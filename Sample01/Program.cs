@@ -11,7 +11,15 @@ namespace Sample01
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World");
+            wl("Hello World");
+            wl("Hello World");
+
+        }
+
+
+        static void wl(string s)
+        {
+            Console.WriteLine(s);
         }
     }
 }
