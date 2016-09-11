@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Sample01
 {
-    class Person
+    public class Person
     {
+        public int ID { get; set; }
+        public String Name { get; set; }
+
     }
 }
