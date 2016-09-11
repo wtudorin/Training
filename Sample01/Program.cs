@@ -20,6 +20,8 @@ namespace Sample01
         static void wl(string s)
         {
             Console.WriteLine(s);
+            Console.WriteLine(s);
+
         }
     }
 }

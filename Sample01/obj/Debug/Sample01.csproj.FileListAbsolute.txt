@@ -1,1 +1,7 @@
 D:\Data\Dev\GIT\Source\Sample01\Sample01\bin\Debug\Sample01.exe.config
+D:\Data\Dev\GIT\Sample01\Sample01\bin\Debug\Sample01.exe.config
+D:\Data\Dev\GIT\Sample01\Sample01\obj\Debug\Sample01.csprojResolveAssemblyReference.cache
+D:\Data\Dev\GIT\Sample01\Sample01\bin\Debug\Sample01.exe
+D:\Data\Dev\GIT\Sample01\Sample01\bin\Debug\Sample01.pdb
+D:\Data\Dev\GIT\Sample01\Sample01\obj\Debug\Sample01.exe
+D:\Data\Dev\GIT\Sample01\Sample01\obj\Debug\Sample01.pdb
