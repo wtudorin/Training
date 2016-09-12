@@ -1,0 +1,9 @@
+#This is a comment
+FileToDelete*.*
+Sample01/bin/Debug/*.*
+Sample01/obj/Debug/*.*
+
+
+
+
+
