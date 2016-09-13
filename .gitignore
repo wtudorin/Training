@@ -2,7 +2,7 @@
 FileToDelete*.*
 Sample01/bin/Debug/*.*
 Sample01/obj/Debug/*.*
-
+Newly_Tracked_file.txt
 
 
 
