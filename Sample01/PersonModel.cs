@@ -13,6 +13,9 @@ namespace Sample01
         public String SurnName { get; set; }
         public int Age { get; set; }
         public string Address { get; set; }
+        public string PostCode { get; set; }
+        public string Suburb { get; set; }
+        public string State { get; set; }
 
 
     }
