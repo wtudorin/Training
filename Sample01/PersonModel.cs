@@ -14,5 +14,7 @@ namespace Sample01
         public int Age { get; set; }
         public Person Wife { get; set; }
         public List<Person> Children { get; set; }
+        public Person Father { get; set; }
+
     }
 }
