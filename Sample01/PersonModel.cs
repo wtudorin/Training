@@ -16,6 +16,7 @@ namespace Sample01
         public List<Person> Children { get; set; }
         public Person Father { get; set; }
         public Person Mother { get; set; }
+        public Person GranFather { get; set; }
 
     }
 }
