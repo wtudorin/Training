@@ -10,6 +10,7 @@ namespace Sample01
     {
         public int ID { get; set; }
         public String Name { get; set; }
+        public String SurnName { get; set; }
 
     }
 }
