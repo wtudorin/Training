@@ -20,6 +20,10 @@ namespace Sample01
         public Person GranFather { get; set; }
         public Person GranMother { get; set; }
         public Person GranChild { get; set; }
+        public string Address { get; set; }
+        public string PostCode { get; set; }
+        public string Suburb { get; set; }
+        public string State { get; set; }
 
     }
 
