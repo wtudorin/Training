@@ -11,6 +11,8 @@ namespace Sample01
         public int ID { get; set; }
         public String FirstName { get; set; }
         public String SurnName { get; set; }
+        public int Age { get; set; }
+
 
     }
 }
