@@ -12,7 +12,7 @@ namespace Sample01
         public String FirstName { get; set; }
         public String SurnName { get; set; }
         public int Age { get; set; }
-
-
+        public Person Wife { get; set; }
+        public List<Person> Children { get; set; }
     }
 }
