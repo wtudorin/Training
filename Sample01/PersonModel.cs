@@ -18,6 +18,7 @@ namespace Sample01
         public Person Mother { get; set; }
         public Person GranFather { get; set; }
         public Person GranMother { get; set; }
+        public Person GranChild { get; set; }
 
     }
 }
